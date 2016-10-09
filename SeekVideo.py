@@ -15,12 +15,9 @@ iterations = nFrames - seekFrame
 
 #for i in range(iterations):
 while(cap.isOpened()):
-    print('sds')
     ret, frame = cap.read()
 
-    gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
-
-    cv2.imshow('video',gray)
+    cv2.imshow('video',frame)
     if cv2.waitKey(25) & 0xFF == ord('q'):
         print ("breaks!")
         break

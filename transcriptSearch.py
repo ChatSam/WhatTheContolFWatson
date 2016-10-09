@@ -1,7 +1,11 @@
+import numpy as np
+import cv2
 import json
 from os.path import join, dirname
 from watson_developer_cloud import AlchemyLanguageV1
 from nltk.tokenize import sent_tokenize, word_tokenize
+import time
+import sys
 
 #demo one
 #alchemy_language = AlchemyLanguageV1(api_key='997e434e4c331defcf021d503ead65bd15c3e944');
@@ -22,7 +26,7 @@ def processTranscript(filename):
   #searchable dictionary
   searchableText = dict();
 
-  counter = 0;
+  counter = 1;
 
   for sentence in sentenceList:
 
@@ -39,6 +43,9 @@ def processTranscript(filename):
 
   return searchableText
 
+
+
+
 def mapKeyWordToTime(searchableText,searchQuery):
 
   for key in searchableText.keys():
@@ -48,7 +55,46 @@ def mapKeyWordToTime(searchableText,searchQuery):
       return searchableText[key]
 
 
-text= processTranscript("sd");
-nume= mapKeyWordToTime(text,"term semantics")
+def seekVideo(searchUnit,searchSpace,filepath):
 
-print(nume)
+    #load the file
+    cap = cv2.VideoCapture(filepath)
+
+    # gets the no of frames in the video
+    nFrames = int(cap.get(7))
+
+    frameUnit = nFrames/searchSpace
+
+    # the frame the video needs to be played at
+    seekFrame = frameUnit*searchUnit
+
+    # the frame the video needs to be played at
+    cap.set(1, seekFrame)
+
+    # gets the no of frames in the video
+    nFrames = int(cap.get(7))
+
+    iterations = nFrames - seekFrame
+
+    for i in range(int(iterations)):
+        ret, frame = cap.read()
+
+        cv2.imshow('video', frame)
+        if cv2.waitKey(25) & 0xFF == ord('q'):
+            print("breaks!")
+            break
+
+    cap.release()
+    cv2.destroyAllWindows()
+
+time.sleep(5)
+seekVideo(4,10,'testVid.mp4')
+sys.exit()
+time.sleep(5)
+seekVideo(7,10,'testVid.mp4')
+
+#text= processTranscript("sd");
+#nume= mapKeyWordToTime(text,"term semantics")
+
+#print(nume)
+
