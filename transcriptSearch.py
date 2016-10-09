@@ -3,7 +3,9 @@ from os.path import join, dirname
 from watson_developer_cloud import AlchemyLanguageV1
 from nltk.tokenize import sent_tokenize, word_tokenize
 
-alchemy_language = AlchemyLanguageV1(api_key='997e434e4c331defcf021d503ead65bd15c3e944');
+#demo one
+#alchemy_language = AlchemyLanguageV1(api_key='997e434e4c331defcf021d503ead65bd15c3e944');
+alchemy_language = AlchemyLanguageV1(api_key='bd86c39918b7ddd88da6e9dfdc2d23133650e398');
 
 
 def processTranscript(filename):
@@ -28,10 +30,25 @@ def processTranscript(filename):
 
     jsonData = json.loads(jsonObj)
 
-    searchableText[counter] = jsonData['keywords'][0]['text']
+    key = jsonData['keywords'][0]['text']
+    searchableText[key] = counter;
 
-    print(jsonData)
-
+    counter += 1
+    print(searchableText)
     break;
 
+  return searchableText
 
+def mapKeyWordToTime(searchableText,searchQuery):
+
+  for key in searchableText.keys():
+    if (key == searchQuery):
+      print ("detection!")
+
+      return searchableText[key]
+
+
+text= processTranscript("sd");
+nume= mapKeyWordToTime(text,"term semantics")
+
+print(nume)
