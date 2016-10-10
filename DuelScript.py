@@ -4,7 +4,8 @@ import json
 from os.path import join, dirname
 from watson_developer_cloud import SpeechToTextV1
 import ibmiotf.device
-import tkinter as tk
+from tkinter import *
+import threading
 
 
 options = {
@@ -43,44 +44,105 @@ CHUNK = 1024
 FORMAT = pyaudio.paInt16
 CHANNELS = 2
 RATE = 44100
-RECORD_SECONDS = 5
+RECORD_SECONDS=5
 WAVE_OUTPUT_FILENAME = "speech.wav"
+p = pyaudio.PyAudio()
+stream = p.open(format=FORMAT,channels=CHANNELS,rate=RATE,input=True,frames_per_buffer=CHUNK)
+frames = []
+
+class App():
+    def __init__(self, master):
+        frame2 = Frame(master)
+        frame2.pack()
+        self.button = Button(frame2,
+                             text="Rec", fg="red",
+                             command=self.startrecording)
+        self.button.pack(side=LEFT)
 
 
-while True:
-	run=input ("Press Enter to cast a spell")
-	p = pyaudio.PyAudio()
-	stream = p.open(format=FORMAT,
-					channels=CHANNELS,
-					rate=RATE,
-					input=True,
-					frames_per_buffer=CHUNK)
+    def startrecording(self):
+        run = input
+        p = pyaudio.PyAudio()
+        stream = p.open(format=FORMAT,
+                        channels=CHANNELS,
+                        rate=RATE,
+                        input=True,
+                        frames_per_buffer=CHUNK)
 
-	print("* recording")
-
-	frames = []
-
-	for i in range(0, int(RATE / CHUNK * RECORD_SECONDS)):
-		data = stream.read(CHUNK)
-		frames.append(data)
-
-	print("* done recording")
-
-	stream.stop_stream()
-	stream.close()
-	p.terminate()
-
-	wf = wave.open(WAVE_OUTPUT_FILENAME, 'wb')
-	wf.setnchannels(CHANNELS)
-	wf.setsampwidth(p.get_sample_size(FORMAT))
-	wf.setframerate(RATE)
-	wf.writeframes(b''.join(frames))
-	wf.close()
+        print("* recording")
 
 
-	with open(join(dirname(__file__), 'speech.wav'), 'rb') as audio_file:
-		client.commandCallback = myCommandCallback
-		transcript=json.dumps(speech_to_text.recognize(audio_file, content_type='audio/wav', continuous=True), indent=2)
-		client.publishEvent("transcript", "json", {'transcript':transcript})
-		print(transcript)
+        frames = []
+        for i in range(0, int(RATE / CHUNK * RECORD_SECONDS)):
+            data = stream.read(CHUNK)
+            frames.append(data)
 
+        print("* done recording")
+
+        stream.stop_stream()
+        stream.close()
+        p.terminate()
+        print("here")
+        wf = wave.open(WAVE_OUTPUT_FILENAME, 'wb')
+        wf.setnchannels(CHANNELS)
+        wf.setsampwidth(p.get_sample_size(FORMAT))
+        wf.setframerate(RATE)
+        wf.writeframes(b''.join(frames))
+        wf.close()
+
+        with open(join(dirname(__file__), 'speech.wav'), 'rb') as audio_file:
+            client.commandCallback = myCommandCallback
+            transcript = json.dumps(speech_to_text.recognize(audio_file, content_type='audio/wav', continuous=True),
+                                    indent=2)
+            client.publishEvent("transcript", "json", {'transcript': transcript})
+            print(transcript)
+
+
+(' def _record(self):\n'
+ '        while self.isrecording:\n'
+ '            print ("Recording")')
+
+
+main = Tk()
+app = App(main)
+main.mainloop()
+
+
+
+
+'''while True:
+    run=input ("Press Enter to cast a spell")
+    p = pyaudio.PyAudio()
+    stream = p.open(format=FORMAT,
+                    channels=CHANNELS,
+                    rate=RATE,
+                    input=True,
+                    frames_per_buffer=CHUNK)
+
+    print("* recording")
+
+    frames = []
+
+    for i in range(0, int(RATE / CHUNK * RECORD_SECONDS)):
+        data = stream.read(CHUNK)
+        frames.append(data)
+
+    print("* done recording")
+
+    stream.stop_stream()
+    stream.close()
+    p.terminate()
+
+    wf = wave.open(WAVE_OUTPUT_FILENAME, 'wb')
+    wf.setnchannels(CHANNELS)
+    wf.setsampwidth(p.get_sample_size(FORMAT))
+    wf.setframerate(RATE)
+    wf.writeframes(b''.join(frames))
+    wf.close()
+
+
+    with open(join(dirname(__file__), 'speech.wav'), 'rb') as audio_file:
+        client.commandCallback = myCommandCallback
+        transcript=json.dumps(speech_to_text.recognize(audio_file, content_type='audio/wav', continuous=True), indent=2)
+        client.publishEvent("transcript", "json", {'transcript':transcript})
+        print(transcript)'''

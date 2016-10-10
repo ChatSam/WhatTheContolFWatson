@@ -1,0 +1,328 @@
+2016-10-09 10:26:37,879   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 10:29:38,510   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 10:55:35,600   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:01:38,601   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:01:38,602   ibmiotf.device.Client      INFO    Messages published : 1, life: 363s, rate: 1/363.49s
+2016-10-09 11:01:38,625   ibmiotf.device.Client      INFO    Messages received  : 0, life: 363s, rate: 1/0.00s
+2016-10-09 11:01:38,600   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:01:39,893   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:01:39,893   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:01:39,894   ibmiotf.device.Client      INFO    Messages published : 0, life: 2s, rate: 1/0.00s
+2016-10-09 11:01:39,894   ibmiotf.device.Client      INFO    Messages received  : 0, life: 2s, rate: 1/0.00s
+2016-10-09 11:01:41,171   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:01:41,175   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:01:41,176   ibmiotf.device.Client      INFO    Messages published : 1, life: 366s, rate: 1/366.07s
+2016-10-09 11:01:41,176   ibmiotf.device.Client      INFO    Messages received  : 0, life: 366s, rate: 1/0.00s
+2016-10-09 11:01:42,447   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+ngs Foundation
+2016-10-09 11:01:42,447   ibmiotf.device.Client      INFO    Messages published : 0, life: 4s, rate: 1/0.00s
+2016-10-09 11:01:42,448   ibmiotf.device.Client      INFO    Messages received  : 0, life: 4s, rate: 1/0.00s
+2016-10-09 11:01:43,720   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:01:43,721   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:01:43,721   ibmiotf.device.Client      INFO    Messages published : 1, life: 369s, rate: 1/368.61s
+2016-10-09 11:01:43,721   ibmiotf.device.Client      INFO    Messages received  : 0, life: 369s, rate: 1/0.00s
+2016-10-09 11:01:45,015   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:01:45,016   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:01:45,017   ibmiotf.device.Client      INFO    Messages published : 0, life: 7s, rate: 1/0.00s
+2016-10-09 11:01:45,018   ibmiotf.device.Client      INFO    Messages received  : 0, life: 7s, rate: 1/0.00s
+2016-10-09 11:01:46,328   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:01:46,328   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:01:46,329   ibmiotf.device.Client      INFO    Messages published : 1, life: 371s, rate: 1/371.22s
+2016-10-09 11:01:46,330   ibmiotf.device.Client      INFO    Messages received  : 0, life: 371s, rate: 1/0.00s
+2016-10-09 11:01:47,657   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:01:47,658   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:01:47,660   ibmiotf.device.Client      INFO    Messages published : 0, life: 10s, rate: 1/0.00s
+2016-10-09 11:01:47,663   ibmiotf.device.Client      INFO    Messages received  : 0, life: 10s, rate: 1/0.00s
+2016-10-09 11:01:48,947   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:01:48,947   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:01:48,948   ibmiotf.device.Client      INFO    Messages published : 1, life: 374s, rate: 1/373.84s
+2016-10-09 11:01:48,948   ibmiotf.device.Client      INFO    Messages received  : 0, life: 374s, rate: 1/0.00s
+2016-10-09 11:01:51,219   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:01:51,220   ibmiotf.device.Client      INFO    Messages published : 0, life: 13s, rate: 1/0.00s
+2016-10-09 11:01:51,220   ibmiotf.device.Client      INFO    Messages received  : 0, life: 13s, rate: 1/0.00s
+2016-10-09 11:01:51,221   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:01:53,829   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:01:53,830   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:01:53,831   ibmiotf.device.Client      INFO    Messages published : 1, life: 379s, rate: 1/378.72s
+2016-10-09 11:01:53,832   ibmiotf.device.Client      INFO    Messages received  : 0, life: 379s, rate: 1/0.00s
+2016-10-09 11:01:55,126   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:01:55,126   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:01:55,127   ibmiotf.device.Client      INFO    Messages published : 0, life: 17s, rate: 1/0.00s
+2016-10-09 11:01:55,127   ibmiotf.device.Client      INFO    Messages received  : 0, life: 17s, rate: 1/0.00s
+2016-10-09 11:02:11,723   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:12:11,348   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:18:29,815   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:18:29,817   ibmiotf.device.Client      INFO    Messages published : 0, life: 380s, rate: 1/0.00s
+2016-10-09 11:18:29,817   ibmiotf.device.Client      INFO    Messages received  : 0, life: 380s, rate: 1/0.00s
+2016-10-09 11:18:29,815   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:18:32,084   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:19:59,858   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:19:59,858   ibmiotf.device.Client      INFO    Messages published : 0, life: 470s, rate: 1/0.00s
+2016-10-09 11:19:59,859   ibmiotf.device.Client      INFO    Messages received  : 0, life: 470s, rate: 1/0.00s
+2016-10-09 11:20:02,131   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:21:01,707   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:21:01,708   ibmiotf.device.Client      INFO    Messages published : 0, life: 532s, rate: 1/0.00s
+2016-10-09 11:21:01,708   ibmiotf.device.Client      INFO    Messages received  : 0, life: 532s, rate: 1/0.00s
+2016-10-09 11:21:04,009   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:21:06,582   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:21:06,582   ibmiotf.device.Client      INFO    Messages published : 0, life: 537s, rate: 1/0.00s
+2016-10-09 11:21:06,582   ibmiotf.device.Client      INFO    Messages received  : 0, life: 537s, rate: 1/0.00s
+2016-10-09 11:21:09,849   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:21:13,340   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:21:13,341   ibmiotf.device.Client      INFO    Messages published : 0, life: 543s, rate: 1/0.00s
+2016-10-09 11:21:13,341   ibmiotf.device.Client      INFO    Messages received  : 0, life: 543s, rate: 1/0.00s
+2016-10-09 11:21:16,621   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:21:20,113   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:21:20,113   ibmiotf.device.Client      INFO    Messages published : 0, life: 550s, rate: 1/0.00s
+2016-10-09 11:21:20,113   ibmiotf.device.Client      INFO    Messages received  : 0, life: 550s, rate: 1/0.00s
+2016-10-09 11:21:23,378   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:21:26,874   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:21:26,875   ibmiotf.device.Client      INFO    Messages published : 0, life: 557s, rate: 1/0.00s
+2016-10-09 11:21:26,876   ibmiotf.device.Client      INFO    Messages received  : 0, life: 557s, rate: 1/0.00s
+2016-10-09 11:21:30,138   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:21:32,630   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:21:32,630   ibmiotf.device.Client      INFO    Messages published : 0, life: 563s, rate: 1/0.00s
+2016-10-09 11:21:32,630   ibmiotf.device.Client      INFO    Messages received  : 0, life: 563s, rate: 1/0.00s
+2016-10-09 11:21:35,895   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:21:39,364   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:21:39,366   ibmiotf.device.Client      INFO    Messages published : 0, life: 569s, rate: 1/0.00s
+2016-10-09 11:21:39,366   ibmiotf.device.Client      INFO    Messages received  : 0, life: 569s, rate: 1/0.00s
+2016-10-09 11:21:42,645   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:21:46,329   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:21:46,330   ibmiotf.device.Client      INFO    Messages published : 0, life: 576s, rate: 1/0.00s
+2016-10-09 11:21:46,330   ibmiotf.device.Client      INFO    Messages received  : 0, life: 576s, rate: 1/0.00s
+2016-10-09 11:21:49,596   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:21:50,831   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:21:50,832   ibmiotf.device.Client      INFO    Messages published : 0, life: 581s, rate: 1/0.00s
+2016-10-09 11:21:50,832   ibmiotf.device.Client      INFO    Messages received  : 0, life: 581s, rate: 1/0.00s
+2016-10-09 11:21:54,104   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:21:57,593   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:21:57,593   ibmiotf.device.Client      INFO    Messages published : 0, life: 588s, rate: 1/0.00s
+2016-10-09 11:21:57,594   ibmiotf.device.Client      INFO    Messages received  : 0, life: 588s, rate: 1/0.00s
+2016-10-09 11:22:00,869   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:22:04,351   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:22:04,352   ibmiotf.device.Client      INFO    Messages published : 0, life: 594s, rate: 1/0.00s
+2016-10-09 11:22:04,352   ibmiotf.device.Client      INFO    Messages received  : 0, life: 594s, rate: 1/0.00s
+2016-10-09 11:22:07,616   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:31:26,278   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:31:31,176   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:31:31,177   ibmiotf.device.Client      INFO    Messages published : 0, life: 10s, rate: 1/0.00s
+2016-10-09 11:31:31,178   ibmiotf.device.Client      INFO    Messages received  : 0, life: 10s, rate: 1/0.00s
+2016-10-09 11:31:37,451   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:31:42,017   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:31:42,017   ibmiotf.device.Client      INFO    Messages published : 0, life: 21s, rate: 1/0.00s
+2016-10-09 11:31:42,017   ibmiotf.device.Client      INFO    Messages received  : 0, life: 21s, rate: 1/0.00s
+2016-10-09 11:31:48,296   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:31:50,415   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:31:50,416   ibmiotf.device.Client      INFO    Messages published : 0, life: 30s, rate: 1/0.00s
+2016-10-09 11:31:50,416   ibmiotf.device.Client      INFO    Messages received  : 0, life: 30s, rate: 1/0.00s
+2016-10-09 11:31:56,683   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:32:03,115   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:32:03,115   ibmiotf.device.Client      INFO    Messages published : 0, life: 42s, rate: 1/0.00s
+2016-10-09 11:32:03,116   ibmiotf.device.Client      INFO    Messages received  : 0, life: 42s, rate: 1/0.00s
+2016-10-09 11:32:09,395   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:32:38,222   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:32:44,688   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:32:44,689   ibmiotf.device.Client      INFO    Messages published : 0, life: 12s, rate: 1/0.00s
+2016-10-09 11:32:44,689   ibmiotf.device.Client      INFO    Messages received  : 0, life: 12s, rate: 1/0.00s
+2016-10-09 11:32:50,966   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:32:57,385   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 11:32:57,386   ibmiotf.device.Client      INFO    Messages published : 0, life: 25s, rate: 1/0.00s
+2016-10-09 11:32:57,386   ibmiotf.device.Client      INFO    Messages received  : 0, life: 25s, rate: 1/0.00s
+2016-10-09 11:33:03,657   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:33:45,988   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:35:19,161   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:35:30,178   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:36:00,634   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 11:41:49,492   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 12:04:15,124   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 12:18:28,811   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 12:23:18,066   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 12:30:52,528   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 12:32:00,651   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 12:32:43,146   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 12:35:24,877   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 12:35:26,374   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 12:35:26,375   ibmiotf.device.Client      INFO    Messages published : 0, life: 2s, rate: 1/0.00s
+2016-10-09 12:35:26,376   ibmiotf.device.Client      INFO    Messages received  : 0, life: 2s, rate: 1/0.00s
+2016-10-09 12:35:27,918   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 12:35:29,440   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 12:35:29,440   ibmiotf.device.Client      INFO    Messages published : 0, life: 5s, rate: 1/0.00s
+2016-10-09 12:35:29,441   ibmiotf.device.Client      INFO    Messages received  : 0, life: 5s, rate: 1/0.00s
+2016-10-09 12:35:30,711   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 12:35:32,205   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 12:35:32,205   ibmiotf.device.Client      INFO    Messages published : 0, life: 8s, rate: 1/0.00s
+2016-10-09 12:35:32,205   ibmiotf.device.Client      INFO    Messages received  : 0, life: 8s, rate: 1/0.00s
+2016-10-09 12:36:04,525   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 12:42:44,173   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 12:46:52,588   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 12:49:05,714   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 12:49:54,183   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 12:54:57,932   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 13:03:04,602   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 13:03:34,507   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 13:09:15,965   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 13:41:44,947   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 13:43:07,482   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 13:44:08,614   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 13:46:56,754   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 13:47:48,207   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 13:50:36,094   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 13:51:54,433   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 13:51:54,434   ibmiotf.device.Client      INFO    Messages published : 0, life: 79s, rate: 1/0.00s
+2016-10-09 13:51:54,435   ibmiotf.device.Client      INFO    Messages received  : 0, life: 79s, rate: 1/0.00s
+2016-10-09 13:51:54,433   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 13:51:56,069   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+ngs Foundation
+2016-10-09 13:51:56,071   ibmiotf.device.Client      INFO    Messages published : 0, life: 2s, rate: 1/0.00s
+2016-10-09 13:51:56,072   ibmiotf.device.Client      INFO    Messages received  : 0, life: 2s, rate: 1/0.00s
+2016-10-09 13:51:57,606   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 13:51:57,606   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 13:51:57,607   ibmiotf.device.Client      INFO    Messages published : 0, life: 82s, rate: 1/0.00s
+2016-10-09 13:51:57,607   ibmiotf.device.Client      INFO    Messages received  : 0, life: 82s, rate: 1/0.00s
+2016-10-09 13:51:59,039   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 13:51:59,039   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 13:51:59,040   ibmiotf.device.Client      INFO    Messages published : 0, life: 5s, rate: 1/0.00s
+2016-10-09 13:51:59,041   ibmiotf.device.Client      INFO    Messages received  : 0, life: 5s, rate: 1/0.00s
+2016-10-09 13:52:00,447   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 13:52:00,448   ibmiotf.device.Client      INFO    Messages published : 0, life: 85s, rate: 1/0.00s
+2016-10-09 13:52:00,448   ibmiotf.device.Client      INFO    Messages received  : 0, life: 85s, rate: 1/0.00s
+2016-10-09 13:52:00,452   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 13:52:01,804   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 13:52:01,805   ibmiotf.device.Client      INFO    Messages published : 1, life: 8s, rate: 1/7.99s
+2016-10-09 13:52:01,806   ibmiotf.device.Client      INFO    Messages received  : 0, life: 8s, rate: 1/0.00s
+2016-10-09 13:52:04,261   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 13:52:04,261   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 13:52:04,262   ibmiotf.device.Client      INFO    Messages published : 0, life: 89s, rate: 1/0.00s
+2016-10-09 13:52:04,262   ibmiotf.device.Client      INFO    Messages received  : 0, life: 89s, rate: 1/0.00s
+2016-10-09 13:52:05,695   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+ngs Foundation
+2016-10-09 13:52:05,696   ibmiotf.device.Client      INFO    Messages published : 1, life: 12s, rate: 1/11.88s
+2016-10-09 13:52:05,696   ibmiotf.device.Client      INFO    Messages received  : 0, life: 12s, rate: 1/0.00s
+2016-10-09 13:52:24,537   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 13:53:00,889   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 13:54:13,899   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 13:55:13,701   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 13:57:16,888   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 13:57:16,888   ibmiotf.device.Client      INFO    Messages published : 1, life: 124s, rate: 1/124.09s
+2016-10-09 13:57:16,889   ibmiotf.device.Client      INFO    Messages received  : 0, life: 124s, rate: 1/0.00s
+2016-10-09 13:57:16,888   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 13:57:18,323   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+ngs Foundation
+2016-10-09 13:57:18,325   ibmiotf.device.Client      INFO    Messages published : 0, life: 2s, rate: 1/0.00s
+2016-10-09 13:57:18,326   ibmiotf.device.Client      INFO    Messages received  : 0, life: 2s, rate: 1/0.00s
+2016-10-09 13:57:19,858   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 13:57:19,858   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 13:57:19,859   ibmiotf.device.Client      INFO    Messages published : 1, life: 127s, rate: 1/127.06s
+2016-10-09 13:57:19,859   ibmiotf.device.Client      INFO    Messages received  : 0, life: 127s, rate: 1/0.00s
+2016-10-09 13:57:21,292   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 13:57:21,292   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 13:57:21,293   ibmiotf.device.Client      INFO    Messages published : 0, life: 5s, rate: 1/0.00s
+2016-10-09 13:57:21,294   ibmiotf.device.Client      INFO    Messages received  : 0, life: 5s, rate: 1/0.00s
+2016-10-09 13:57:22,725   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 13:57:22,726   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 13:57:22,727   ibmiotf.device.Client      INFO    Messages published : 1, life: 130s, rate: 1/129.93s
+2016-10-09 13:57:22,728   ibmiotf.device.Client      INFO    Messages received  : 0, life: 130s, rate: 1/0.00s
+2016-10-09 13:57:25,288   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 13:57:25,288   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 13:57:25,288   ibmiotf.device.Client      INFO    Messages published : 0, life: 9s, rate: 1/0.00s
+2016-10-09 13:57:25,289   ibmiotf.device.Client      INFO    Messages received  : 0, life: 9s, rate: 1/0.00s
+2016-10-09 13:57:38,801   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:01:04,839   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 14:01:04,841   ibmiotf.device.Client      INFO    Messages published : 1, life: 209s, rate: 1/209.03s
+2016-10-09 14:01:04,842   ibmiotf.device.Client      INFO    Messages received  : 0, life: 209s, rate: 1/0.00s
+2016-10-09 14:01:04,838   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:01:07,353   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 14:01:07,353   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:01:07,354   ibmiotf.device.Client      INFO    Messages published : 0, life: 4s, rate: 1/0.00s
+2016-10-09 14:01:07,355   ibmiotf.device.Client      INFO    Messages received  : 0, life: 4s, rate: 1/0.00s
+2016-10-09 14:01:08,932   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:01:08,932   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 14:01:08,933   ibmiotf.device.Client      INFO    Messages published : 1, life: 213s, rate: 1/213.12s
+2016-10-09 14:01:08,933   ibmiotf.device.Client      INFO    Messages received  : 0, life: 213s, rate: 1/0.00s
+2016-10-09 14:01:12,421   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:01:12,422   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 14:01:12,423   ibmiotf.device.Client      INFO    Messages published : 0, life: 9s, rate: 1/0.00s
+2016-10-09 14:01:12,424   ibmiotf.device.Client      INFO    Messages received  : 0, life: 9s, rate: 1/0.00s
+2016-10-09 14:01:22,864   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:04:11,947   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 14:04:11,948   ibmiotf.device.Client      INFO    Messages published : 1, life: 170s, rate: 1/169.90s
+2016-10-09 14:04:11,948   ibmiotf.device.Client      INFO    Messages received  : 0, life: 170s, rate: 1/0.00s
+2016-10-09 14:04:11,947   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:04:13,568   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:04:13,568   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 14:04:13,569   ibmiotf.device.Client      INFO    Messages published : 0, life: 2s, rate: 1/0.00s
+2016-10-09 14:04:13,569   ibmiotf.device.Client      INFO    Messages received  : 0, life: 2s, rate: 1/0.00s
+2016-10-09 14:04:16,137   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:04:16,137   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 14:04:16,138   ibmiotf.device.Client      INFO    Messages published : 1, life: 174s, rate: 1/174.09s
+2016-10-09 14:04:16,139   ibmiotf.device.Client      INFO    Messages received  : 0, life: 174s, rate: 1/0.00s
+2016-10-09 14:04:18,543   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:04:18,544   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 14:04:18,545   ibmiotf.device.Client      INFO    Messages published : 0, life: 7s, rate: 1/0.00s
+2016-10-09 14:04:18,546   ibmiotf.device.Client      INFO    Messages received  : 0, life: 7s, rate: 1/0.00s
+2016-10-09 14:04:21,451   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 14:04:21,452   ibmiotf.device.Client      INFO    Messages published : 1, life: 179s, rate: 1/179.40s
+2016-10-09 14:04:21,453   ibmiotf.device.Client      INFO    Messages received  : 0, life: 179s, rate: 1/0.00s
+2016-10-09 14:04:24,003   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:04:31,491   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:05:59,334   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 14:05:59,335   ibmiotf.device.Client      INFO    Messages published : 0, life: 90s, rate: 1/0.00s
+2016-10-09 14:05:59,336   ibmiotf.device.Client      INFO    Messages received  : 0, life: 90s, rate: 1/0.00s
+2016-10-09 14:05:59,333   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:06:01,791   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:06:14,798   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:06:38,245   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:07:07,533   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:08:02,726   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:09:15,225   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:09:59,157   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 14:09:59,158   ibmiotf.device.Client      INFO    Messages published : 0, life: 46s, rate: 1/0.00s
+2016-10-09 14:09:59,159   ibmiotf.device.Client      INFO    Messages received  : 0, life: 46s, rate: 1/0.00s
+2016-10-09 14:09:59,157   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:10:01,612   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:10:06,270   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:10:53,837   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 14:10:53,837   ibmiotf.device.Client      INFO    Messages published : 0, life: 49s, rate: 1/0.00s
+2016-10-09 14:10:53,838   ibmiotf.device.Client      INFO    Messages received  : 0, life: 49s, rate: 1/0.00s
+2016-10-09 14:10:53,837   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:10:57,320   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:11:02,259   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:12:46,783   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 14:12:46,784   ibmiotf.device.Client      INFO    Messages published : 0, life: 107s, rate: 1/0.00s
+2016-10-09 14:12:46,784   ibmiotf.device.Client      INFO    Messages received  : 0, life: 107s, rate: 1/0.00s
+2016-10-09 14:12:46,783   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:12:50,164   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:12:57,947   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:14:17,512   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:14:53,658   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:17:04,936   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:17:35,758   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:18:15,284   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:19:44,858   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:21:10,695   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:21:53,498   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:23:50,849   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 14:30:05,736   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 15:23:32,222   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 15:23:32,222   ibmiotf.device.Client      INFO    Messages published : 2, life: 3209s, rate: 1/1604.57s
+2016-10-09 15:23:32,222   ibmiotf.device.Client      INFO    Messages received  : 0, life: 3209s, rate: 1/0.00s
+2016-10-09 15:23:33,543   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 15:24:43,401   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 15:27:32,234   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 17:13:40,832   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 17:13:40,833   ibmiotf.device.Client      INFO    Messages published : 0, life: 6369s, rate: 1/0.00s
+2016-10-09 17:13:40,834   ibmiotf.device.Client      INFO    Messages received  : 0, life: 6369s, rate: 1/0.00s
+2016-10-09 17:13:42,234   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 17:26:15,487   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 17:26:15,488   ibmiotf.device.Client      INFO    Messages published : 0, life: 7124s, rate: 1/0.00s
+2016-10-09 17:26:15,488   ibmiotf.device.Client      INFO    Messages received  : 0, life: 7124s, rate: 1/0.00s
+2016-10-09 17:26:16,761   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 18:29:15,336   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2016-10-09 18:29:15,336   ibmiotf.device.Client      INFO    Messages published : 0, life: 10904s, rate: 1/0.00s
+2016-10-09 18:29:15,337   ibmiotf.device.Client      INFO    Messages received  : 0, life: 10904s, rate: 1/0.00s
+2016-10-09 18:29:19,791   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 18:30:11,872   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 18:30:39,623   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 18:31:57,240   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
+2016-10-09 18:32:10,860   ibmiotf.device.Client      INFO    Connected successfully: d:88hc9i:Laptop1:Laptop1
